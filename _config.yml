@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Machine Intelligence
 description: Cosmo Harrigan is a cross-disciplinary internet entrepreneur and a researcher in deep reinforcement learning and artificial general intelligence. He is interested in understanding the nature of cognition and building generally intelligent agents.
 logo: http://www.machineintelligence.org/cosmo.jpg
-show_downloads: "false"
+show_downloads: false
 google_analytics: UA-118401221-1
 twitter:
   username: cosmoharrigan
