@@ -6,17 +6,9 @@ Since 2006, Cosmo has founded multiple internet companies and grown them to tens
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <div class="github-card" data-github="cosmoharrigan/neuroevolution" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-**Contact information:**  
-[cosmo@machineintelligence.org](mailto:cosmo@machineintelligence.org)  
-[cosmoh@uw.edu](mailto:cosmoh@uw.edu)  
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> 
   
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="cosmoharrigan"><a class="LI-simple-link" href='https://www.linkedin.com/in/cosmoharrigan?trk=profile-badge'>Cosmo Harrigan</a></div>
-
-[CV](http://www.machineintelligence.org/cv.pdf)
 
 **Selected projects and articles:**  
 [Survey of Deep Learning for Artificial General Intelligence](deep-learning-for-agi.pdf) (Invited talk, AGI 2016)  
