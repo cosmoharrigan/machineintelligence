@@ -10,7 +10,7 @@ Since 2006, Cosmo has founded multiple <a href="https://www.streamlineav.com/">e
 * [Neuroevolution as a Direct Policy Search Method](https://github.com/cosmoharrigan/neuroevolution)  
 * [Measuring Understanding Using Algorithmic Complexity](essays/measuring-understanding-complexity.html)  
 * [Guiding Probabilistic Logical Inference with Nonlinear Dynamical Attention Allocation](https://link.springer.com/chapter/10.1007/978-3-319-09274-4_24)
-<div class="github-card" data-github="cosmoharrigan" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="cosmoharrigan" data-width="299" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div class="github-card" data-github="cosmoharrigan/neuroevolution" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
