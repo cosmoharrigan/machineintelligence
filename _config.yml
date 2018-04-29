@@ -1,10 +1,6 @@
 theme: jekyll-theme-minimal
 title: Machine Intelligence
-description: Personal site of Cosmo Harrigan. <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="cosmoharrigan"><a class="LI-simple-link" href='https://www.linkedin.com/in/cosmoharrigan?trk=profile-badge'>Cosmo Harrigan</a></div> **Contact information:**  
-[cosmo@machineintelligence.org](mailto:cosmo@machineintelligence.org)  
-[cosmoh@uw.edu](mailto:cosmoh@uw.edu) 
-
-[CV](http://www.machineintelligence.org/cv.pdf)
+description: Personal site of Cosmo Harrigan. 
 logo: http://www.machineintelligence.org/cosmo.jpg
 show_downloads: false
 google_analytics: UA-118401221-1
