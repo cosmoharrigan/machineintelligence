@@ -6,7 +6,7 @@ Since 2006, Cosmo has founded multiple internet companies and grown them to tens
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <div class="github-card" data-github="cosmoharrigan/neuroevolution" data-width="400" data-height="" data-theme="default"</div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js">
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 **Selected projects and articles:**  
 [Survey of Deep Learning for Artificial General Intelligence](deep-learning-for-agi.pdf) (Invited talk, AGI 2016)  
