@@ -1,4 +1,4 @@
-Cosmo Harrigan is a cross-disciplinary internet entrepreneur and a researcher in deep reinforcement learning and artificial general intelligence. He is interested in understanding the nature of cognition and building generally intelligent agents, especially approximations of universal artificial intelligence and new architectures for deep reinforcement learning.
+**Cosmo Harrigan** is a cross-disciplinary internet entrepreneur and a researcher in deep reinforcement learning and artificial general intelligence. He is interested in understanding the nature of cognition and building generally intelligent agents, especially approximations of universal artificial intelligence and new architectures for deep reinforcement learning.
 
 Since 2006, Cosmo has founded multiple internet companies and grown them to tens of millions in revenue. In addition to being a researcher and entrepreneur, he is a board member of [The Center for Media and Democracy](http://prwatch.org/). He graduated with honors from the University of Washington with a degree in Applied and Computational Mathematical Sciences. 
 
@@ -9,6 +9,14 @@ Since 2006, Cosmo has founded multiple internet companies and grown them to tens
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> 
   
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="cosmoharrigan"><a class="LI-simple-link" href='https://www.linkedin.com/in/cosmoharrigan?trk=profile-badge'>Cosmo Harrigan</a></div>
+
+[CV](http://www.machineintelligence.org/cv.pdf)
+
+**Contact information:**  
+[cosmo@machineintelligence.org](mailto:cosmo@machineintelligence.org)  
+[cosmoh@uw.edu](mailto:cosmoh@uw.edu) 
 
 **Selected projects and articles:**  
 [Survey of Deep Learning for Artificial General Intelligence](deep-learning-for-agi.pdf) (Invited talk, AGI 2016)  
