@@ -5,10 +5,10 @@ Since 2006, Cosmo has founded multiple internet companies and grown them to tens
 <div class="github-card" data-github="cosmoharrigan" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
+**Selected projects and articles:**  
 <div class="github-card" data-github="cosmoharrigan/neuroevolution" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-**Selected projects and articles:**  
 [Invited Talk: Survey of Deep Learning for Artificial General Intelligence](deep-learning-for-agi.pdf)
 [Overview of Universal AI: Reinforcement Learning via AIXI Approximation](universal-ai.pdf)  
 [Deep Reinforcement Learning with Regularized Convolutional Neural Fitted Q Iteration](papers/rc-nfq.pdf) ([Code](https://github.com/cosmoharrigan/rc-nfq))  
