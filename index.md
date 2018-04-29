@@ -1,16 +1,21 @@
+Cosmo Harrigan is a cross-disciplinary internet entrepreneur and a researcher in deep reinforcement learning and artificial general intelligence. He is interested in understanding the nature of cognition and building generally intelligent agents, especially approximations of universal artificial intelligence and new architectures for deep reinforcement learning.
+  
+Since 2006, he has founded multiple internet companies. He is a board member of [The Center for Media and Democracy](http://prwatch.org/). He graduated with honors from the University of Washington with a degree in Applied and Computational Mathematical Sciences. 
+
+<div class="github-card" data-github="cosmoharrigan" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="cosmoharrigan/neuroevolution" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 **Contact information and profile:**  
 [cosmo@machineintelligence.org](mailto:cosmo@machineintelligence.org)  
 [cosmoh@uw.edu](mailto:cosmoh@uw.edu)  
   
 [LinkedIn profile](https://www.linkedin.com/in/cosmoharrigan) (Contains a list of the companies I founded & various projects)  
 [GitHub profile](https://github.com/cosmoharrigan)  
-  
-I am interested in understanding the nature of cognition and building generally intelligent agents, especially approximations of universal artificial intelligence and new architectures for deep reinforcement learning.  
-  
-In addition to being a researcher, I am an internet entrepreneur. Since 2006, I have founded several internet companies. I am on the board of [The Center for Media and Democracy](http://prwatch.org/). I graduated from the University of  
-Washington with a degree in Applied and Computational Mathematical Sciences.  
-  
-**Some recent material:**  
+
+**Selected projects and articles:**  
 [Survey of Deep Learning for Artificial General Intelligence](deep-learning-for-agi.pdf) (Invited talk, AGI 2016)  
 [Overview of Universal AI: Reinforcement Learning via AIXI Approximation](universal-ai.pdf)  
 [Deep Reinforcement Learning with Regularized Convolutional Neural Fitted Q Iteration](papers/rc-nfq.pdf) ([Code](https://github.com/cosmoharrigan/rc-nfq))  
